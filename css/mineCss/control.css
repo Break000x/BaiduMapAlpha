@@ -1,0 +1,13 @@
+body, html,#allmap {width: 100%;height: 100%;overflow: hidden;margin:0;font-family:"微软雅黑";}
+.allcontrol{width: 25%; position:absolute;right:0;top:5%}
+.line{border:none;border-top:1px solid #cccccc87;width:320px;}
+.sidecontrol{border-radius:15px; box-shadow: darkgrey 10px 10px 30px 5px; width: 100%;height: 25%; background-color: white; margin-top:20px;float: left}
+/*.footcontrol{border-radius:15px; width: 25%; height: 30%; margin-bottom: 20px;  box-shadow: darkgrey 10px 10px 30px 5px; background-color: white; position:absolute;right:0;bottom:5%}*/
+img{width: 100%}
+.footcontrol_div{float: left;width: 99px;height: 110px; padding-top: 0.5%}
+.footcontrol_img{width: 100%}
+.footcontrol_div_project{float: left;text-align:center;width: 100%}
+td{border: #ccc 1px solid; text-align: center;height: 30px;width: 120px}
+.th_td{border: #ccc 1px solid; text-align: center;height: 30px;width: 120px;background-color: #888888;line-height: 30px}
+.th_td_long{border: #ccc 1px solid; text-align: center;height: 30px;line-height: 30px;}
+table{margin-left: 7%}
